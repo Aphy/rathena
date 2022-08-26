@@ -8,7 +8,7 @@
 --------|--------|--------|--------|--------|--------
 
 ### Table of Contents
-* [Specifiques Aphy](https://github.com/Aphy/rathena/moreInfo.md)
+* [Specifiques Aphy](https://github.com/Aphy/rathena/blob/master/moreInfo.md)
 1. [Prerequisites](#1-prerequisites)
 2. [Installation](#2-installation)
 3. [Troubleshooting](#3-troubleshooting)
