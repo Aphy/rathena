@@ -46,10 +46,10 @@ Database | [MySQL Workbench 5 or newer](http://www.mysql.com/downloads/workbench
 ## 2. Installation 
 
 ### Full Installation Instructions
-  * [Windows](https://github.com/Aphy/rathena/wiki/Install-on-Windows)
-  * [CentOS](https://github.com/Aphy/rathena/wiki/Install-on-Centos)
-  * [Debian](https://github.com/Aphy/rathena/wiki/Install-on-Debian)
-  * [FreeBSD](https://github.com/Aphy/rathena/wiki/Install-on-FreeBSD)
+  * [Windows](https://github.com/rathena/rathena/wiki/Install-on-Windows)
+  * [CentOS](https://github.com/rathena/rathena/wiki/Install-on-Centos)
+  * [Debian](https://github.com/rathena/rathena/wiki/Install-on-Debian)
+  * [FreeBSD](https://github.com/rathena/rathena/wiki/Install-on-FreeBSD)
 
 ## 3. Troubleshooting
 
